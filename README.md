@@ -1,3 +1,3 @@
 # MuseumOfCandy
  
- Bootstrap Practise
+ Bootstrap Practice
